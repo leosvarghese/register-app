@@ -71,9 +71,5 @@ pipeline {
             }
 
         }
-
-        stage('Trivy Scan'){
-
-        }
     }
 }
